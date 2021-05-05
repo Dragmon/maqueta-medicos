@@ -1,10 +1,11 @@
 import React from 'react';
+import GridSection from '../components/GridSection';
 
 const Home = () => {
   return (
-    <>
-      <h1>Este es el home</h1>
-    </>
+    <div className='px-20'>
+      <GridSection />
+    </div>
   );
 };
 

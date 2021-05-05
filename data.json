@@ -1,0 +1,64 @@
+{
+  "gridIcons": [
+    {
+      "id": 1,
+      "icon": "heart",
+      "name": "icono 1"
+    },
+    {
+      "id": 2,
+      "icon": "flask",
+      "name": "icono 2"
+    },
+    {
+      "id": 3,
+      "icon": "ambulance",
+      "name": "icono 3"
+    },
+    {
+      "id": 4,
+      "icon": "baby",
+      "name": "icono 4"
+    },
+    {
+      "id": 5,
+      "icon": "bell",
+      "name": "icono 5"
+    },
+    {
+      "id": 6,
+      "icon": "brain",
+      "name": "icono 6"
+    },
+    {
+      "id": 7,
+      "icon": "desktop",
+      "name": "icono 7"
+    },
+    {
+      "id": 8,
+      "icon": "folder",
+      "name": "icono 8"
+    },
+    {
+      "id": 9,
+      "icon": "glasses",
+      "name": "icono 9"
+    },
+    {
+      "id": 10,
+      "icon": "hourglass",
+      "name": "icono 10"
+    },
+    {
+      "id": 11,
+      "icon": "hospital",
+      "name": "icono 11"
+    },
+    {
+      "id": 12,
+      "icon": "lungs",
+      "name": "icono 12"
+    }
+  ]
+}
